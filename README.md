@@ -21,6 +21,13 @@ Clean design, smooth gameplay, and classic rules.
 
 ---
 
+## 🎨 **Assets & Art**
+Some art, sprites, or UI elements are used from the **Unity Asset Store**  
+and belong to their respective creators.  
+They are included here **only for educational and non-commercial purposes**.
+
+---
+
 ## 🚀 **Getting Started (Local)**
 ### Requirements
 - Unity 6 (or newer)
@@ -45,7 +52,8 @@ Clean design, smooth gameplay, and classic rules.
 ---
 
 ## 📄 **License**
-This project is open-source and free to use.
+This project is shared **for learning and personal use only**.  
+❗ **Not permitted for commercial use** without the author's permission.
 
 ---
 
